@@ -1,0 +1,10 @@
+.current-item {
+   text-align: center;
+}
+
+
+.sample-container .ui.grey.button:after {
+  text-align: center;
+  width: 150px;
+  white-space: normal;
+}

@@ -1,0 +1,11 @@
+.bg {
+  background-color: aliceblue;
+}
+
+.center{
+	text-align: center;
+}
+
+.w-el{
+	display: inline-block;
+}
